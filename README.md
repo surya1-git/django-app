@@ -16,7 +16,7 @@ step-2:- After clonnig project in local machine, go to project directory and ope
           (**Note**:- virtualenv should be install on your computer. if it is not installed. First install virtualenv using **'pip intsall virtualenv'.**)
           This command will create virtual environment as env.
           Activate this env and install all required libraries..
-        - ** pip install -r requirements.txt **
+        - **pip install -r requirements.txt**
           This will install all required python packages..
          (**Note:**- Here we do not have to do migrations, As we are using dbsqlite. So we can directly use that file as database.)
          
